@@ -6,5 +6,5 @@ Aqui você monta uma pequena planilha com o nome do produto que deseja pesquisar
  
 Basicamente abrimos o navegador, entramos nos sites de busca e enviamos a busca do produto.
 
-Retorna uma planila com os resultados encontrados.
+Retorna uma planila com os resultados encontrados. Nos resultados tem (Produto, Preço e link).
 
